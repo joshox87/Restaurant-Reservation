@@ -1,0 +1,37 @@
+html {
+  background: url(img/waterview.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.main-header,
+.reserve-form {
+  font-family: sans-serif;
+}
+
+.main-header {
+  font-size: 1em;
+  background-color: ;
+  color: #f7f7f7;
+  text-align: center;
+}
+.reserve-form {
+  border: 3px solid black;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  color: black;
+  font-weight: bold;
+  opacity: 0.7;
+
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.button {
+  background-color: blue;
+  color: #f7f7f7;
+  border-radius: 5px;
+}
